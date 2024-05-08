@@ -1,0 +1,39 @@
+{
+  "short_name": "Growsoc",
+  "name": "Growsoc Technologies",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/homepage.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "label": "Home Page"
+    },
+    {
+      "src": "/screenshots/about.png",
+      "type": "image/png",
+      "sizes": "1349x3216",
+      "label": "About Page"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#009d56",
+  "background_color": "#ffffff"
+}
